@@ -1,0 +1,23 @@
+{
+  "name": "js-excel",
+  "version": "1.0.0",
+  "description": "Pure js app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkExodusXX/js-excel.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Denis Goncharov <darkexodusxx@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkExodusXX/js-excel/issues"
+  },
+  "homepage": "https://github.com/DarkExodusXX/js-excel#readme"
+}
